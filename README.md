@@ -216,7 +216,7 @@ This was an active engineering internship task, not a standalone project. My res
 
 | Domain | Tools / Components |
 |--------|-------------------|
-| Electrical CAD | AutoCAD Electrical, QElectroTech |
+| Electrical CAD | AutoCAD Electrical, QElectroTech, AutoCAD |
 | PLC | Mitsubishi FX3SA-60MR-CM |
 | HMI | Mitsubishi GS2107-N |
 | Drives | 4 × VFDs (Mitsubishi) |
