@@ -104,7 +104,7 @@ This was an active engineering internship task, not a standalone project. My res
 - Site visit to Butwal to oversee panel wiring and connection verification
 - Voltage drop calculations and wire diameter confirmation
 - VFD cable routing to minimise EMF broadcasting across the plant floor
-- Mitsubishi FX3SA-60MR-CM PLC programming (assigned independently)
+- Mitsubishi FX1N-24MT-DSS PLC programming (assigned independently)
 
 ---
 
