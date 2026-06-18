@@ -217,7 +217,7 @@ This was an active engineering internship task, not a standalone project. My res
 | Domain | Tools / Components |
 |--------|-------------------|
 | Electrical CAD | AutoCAD Electrical, QElectroTech, AutoCAD |
-| PLC | Mitsubishi FX3SA-60MR-CM |
+| PLC | Mitsubishi FX1N-24MT-DSS |
 | HMI | Mitsubishi GS2107-N |
 | Drives | 4 × VFDs (Mitsubishi) |
 | Sensors | Supmea SUP-TDS210-B, SUP-PH6.5, SUP-pH5013A, SUP-Y210, SUP-ZPM |
