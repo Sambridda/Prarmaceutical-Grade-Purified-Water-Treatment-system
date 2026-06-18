@@ -86,7 +86,7 @@ This was an active engineering internship task, not a standalone project. My res
 - Optimised sensor placement and discussed instrument selection with the senior engineer
 
 **Electrical Documentation (AutoCAD Electrical)**
-- Documented all 6 motor circuits with VFD connections, MPCB ratings, and wire sizing
+- Documented all 6 motor circuits with VFD connections, MPCB ratings, and wire sizing originally in QElectrocTech but migrated to AutoCAD Electrical. The Pneumatic Circuit is still attached to QElectroTech file.
 - Rated all instrumentation wiring — signal types, connection ports, and electrical matching
 - Produced a 10-sheet schematic set covering: motor power, HPP circuits, power distribution, AC/DC control supply, PLC I/O, button mapping, VFD relay logic, and pneumatic outputs
 
